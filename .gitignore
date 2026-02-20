@@ -1,0 +1,21 @@
+# ==========================
+# Backend Laravel
+/backend/vendor
+/backend/node_modules
+/backend/.env
+/backend/public/storage
+/backend/storage/*.key
+/backend/.idea
+/backend/.vscode
+/backend/.phpunit.result.cache
+
+# Frontend Nuxt / Node
+/frontend/node_modules
+/frontend/.nuxt
+/frontend/dist
+/frontend/npm-debug.log
+/frontend/yarn-error.log
+
+# Fichiers temporaires communs
+.DS_Store
+Thumbs.db
